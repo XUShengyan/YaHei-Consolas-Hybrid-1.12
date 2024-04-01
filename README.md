@@ -1,4 +1,6 @@
 # YaHei Consolas Hybrid 1.12
+## 字体安装位置：
+Matlab安装位置目录\sys\java\jre\win64\jre\lib\fonts
 
 a font for developers that correctly displays Asian characters when mixed with Latin
 
